@@ -3,11 +3,11 @@
 #------------------
 #---Lists------
 #------------------
-#{1} List Items Are Enclosed In Square Brackets
-#{2} List Are Orderd, To Use Index to Access Items
-#{3} List Are mutable => Add , Edit , Delete
-#{4} List Items Is Not Unique
-#{5} List can Have Data Types
+#[1]List Items Are Enclosed In Square Brackets
+#[2] List Are Orderd, To Use Index to Access Items
+#[3] List Are mutable => Add , Edit , Delete
+#[4] List Items Is Not Unique
+#[5] List can Have Data Types
 #-------------------
 
 
